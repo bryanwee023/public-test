@@ -1,0 +1,16 @@
+{
+    "quests":  [
+        "quest-1",
+        "quest-2"
+    ],
+    "campaigns": [
+        {
+            "name": "campaign-1",
+            "quests": [ "quest-11", "quest-12" ]
+        },
+        {
+            "name": "campaign-2",
+            "quests": [ "quest-21", "quest-22" ]
+        }
+    ]
+}
